@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hammadmeddy
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on AI and MERN Projects
-- 📫 How to reach me .. yasirhammad21@gmail.com 
+👋 Hi, I’m Muhammad Hammad Y.
+💻 I’m a MERN, Python, and AI Engineer
 
-<!---
-hammadmeddy/hammadmeddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Passionate about Full-Stack Development & AI-driven applications
+
+🌱 Currently expanding my skills in Artificial Intelligence & Machine Learning
+
+🤝 Open to collaborating on AI, MERN, and Python-based projects
+
+📫 Reach me at: yasirhammad21@gmail.com
